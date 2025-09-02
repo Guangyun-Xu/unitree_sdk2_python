@@ -1,4 +1,4 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/unitreerobotics/xr_teleoperate)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Guangyun-Xu/unitree_sdk2_python)
 
 
 # unitree_sdk2_python
